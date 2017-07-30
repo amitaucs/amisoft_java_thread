@@ -21,7 +21,7 @@ public class ch1_1_demo_join {
         }
 
 
-        System.out.println("**** All job done *****");
+        System.out.println("**** All job done. Note : Without join this line will print before the thread complete *****");
     }
 
 
