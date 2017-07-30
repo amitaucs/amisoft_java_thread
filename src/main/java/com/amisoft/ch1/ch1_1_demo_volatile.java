@@ -16,6 +16,7 @@ public class ch1_1_demo_volatile {
             e.printStackTrace();
         }
 
+        //Note : Without Volatile below change may not be reflected in t1 immediately.
         worker.setTerminated(true);
         System.out.println("Finished....");
 
