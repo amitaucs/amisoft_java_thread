@@ -1,4 +1,4 @@
-package com.amisoft;
+package com.amisoft.ch1;
 
 import java.util.concurrent.TimeUnit;
 
